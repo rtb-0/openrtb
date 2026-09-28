@@ -1,0 +1,35 @@
+{
+  "openrtb": {
+    "ver": "3.0",
+    "domainspec": "adcom",
+    "domainver": "1.0",
+    "response": {
+      "id": "req-banner",
+      "bidid": "resp-banner",
+      "cur": "USD",
+      "seatbid": [
+        {
+          "seat": "seat-1",
+          "bid": [
+            {
+              "id": "bid-1",
+              "item": "1",
+              "price": 0.8,
+              "media": {
+                "ad": {
+                  "id": "cr-banner",
+                  "adomain": ["advertiser.example"],
+                  "display": {
+                    "adm": "<div>banner</div>",
+                    "w": 728,
+                    "h": 90
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

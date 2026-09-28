@@ -1,0 +1,13 @@
+{
+  "id": "audio-1",
+  "imp": [
+    {
+      "id": "1",
+      "audio": {
+        "mimes": ["audio/mp4"],
+        "minduration": 5,
+        "maxduration": 30
+      }
+    }
+  ]
+}

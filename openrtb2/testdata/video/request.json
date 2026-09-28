@@ -1,0 +1,112 @@
+{
+  "device": {
+    "ua": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+    "language": "EN",
+    "ip": "73.55.27.72",
+    "geo": {
+      "lat": 40.7141667,
+      "lon": -74.0063889,
+      "country": "USA",
+      "region": "NY",
+      "regionfips104": "US36",
+      "metro": "803",
+      "city": "New York",
+      "zip": "10001",
+      "type": 2,
+      "utcoffset": -300
+    }
+  },
+  "imp": [
+    {
+      "video": {
+        "startdelay": 0,
+        "w": 640,
+        "mimes": [
+          "video/mp4"
+        ],
+        "minduration": 6,
+        "api": [
+          1,
+          2
+        ],
+        "h": 360,
+        "protocols": [
+          2,
+          5
+        ],
+        "linearity": 1,
+        "maxduration": 15
+      },
+      "secure": 0,
+      "ext": {
+        "bcrid": [
+          "5C7A9L",
+          "5G57H9"
+        ]
+      },
+      "pmp": {
+        "private_auction": 1,
+        "deals": [
+          {
+            "wseat": [
+              "401471"
+            ],
+            "bidfloor": 3.50,
+            "at": 2,
+            "id": "20202003",
+            "ext": {
+              "name": "Placement-1"
+            }
+          }
+        ]
+      },
+      "id": "1",
+      "tagid": "161213_246812"
+    }
+  ],
+  "bcat": [
+    "IAB11-4",
+    "IAB23",
+    "IAB9-30",
+    "IAB14-1",
+    "IAB25-2"
+  ],
+  "site": {
+    "cat": [
+      "IAB1-6"
+    ],
+    "page": "genericnews.com",
+    "ref": "genericnews.com",
+    "id": "161213",
+    "publisher": {
+      "name": "Generic Media Company",
+      "id": "12345"
+    }
+  },
+  "user": {
+    "buyeruid": "8f3a4a46-a6c9-41b3-a7da-17c51be605ec",
+    "id": "VPzhc8AoJCgAACHWr5cAAAAY"
+  },
+  "id": "112d66c0-d576-4c57-caf7-bbf94123326d",
+  "ext": {
+    "sdepth": 1,
+    "edepth": 1
+  },
+  "source": {
+    "pchain": "50b1c356f2c5c8fc:2167",
+    "ext": {
+      "schain": {
+        "complete": 1,
+        "ver": "1.0",
+        "nodes": [
+          {
+            "asi": "indexexchange.com",
+            "sid": "12345",
+            "hp": 1,
+            "rid": "A94E2BC017C0D68D"
+          }
+        ]
+      }
+    }
+  }
+}

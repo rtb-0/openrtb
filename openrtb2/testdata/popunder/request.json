@@ -1,0 +1,41 @@
+{
+  "id": "d4b5c697-41f3-4c1c-a3d5-5fd01b5ef2aa",
+  "at": 2,
+  "imp": [
+      {
+          "id": "974090632",
+          "instl": 1,
+          "bidfloor": 0.0005,
+          "bidfloorcur": "USD",
+          "secure": 1
+      }
+  ],
+  "site": {
+      "id": "12345",
+      "domain": "sitedomain.com",
+      "cat": [],
+      "page": "https://sitedomain.com/page",
+      "ext": {
+          "exchangecat": 508,
+          "idzone": 778899
+      }
+  },
+  "device": {
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.63 Safari/537.36",
+      "ip": "120.52.73.97",
+      "geo": {
+          "country": "IRL"
+      },
+      "language": "en",
+      "os": "Linux & UNIX",
+      "js": 0,
+      "ext": {
+          "remote_addr": "131.34.123.159",
+          "x_forwarded_for": "120.52.73.97",
+          "accept_language": "en-GB;q=0.8,pt-PT;q=0.6,en;q=0.4,en-US;q=0.2,de;q=0.2,es;q=0.2,fr;q=0.2"
+      }
+  },
+  "user": {
+      "id": "57592f333f8983.043587162282415065"
+  }
+}

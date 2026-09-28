@@ -1,0 +1,18 @@
+{
+  "openrtb": {
+    "ver": "3.0",
+    "domainspec": "adcom",
+    "domainver": "1.0",
+    "request": {
+      "id": "req-popunder",
+      "at": 2,
+      "item": [
+        {
+          "id": "1",
+          "flr": 0.0005,
+          "flrcur": "USD"
+        }
+      ]
+    }
+  }
+}

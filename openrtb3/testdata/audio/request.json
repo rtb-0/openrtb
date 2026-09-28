@@ -1,0 +1,22 @@
+{
+  "openrtb": {
+    "ver": "3.0",
+    "domainspec": "adcom",
+    "domainver": "1.0",
+    "request": {
+      "id": "req-audio",
+      "item": [
+        {
+          "id": "1",
+          "spec": {
+            "placement": {
+              "audio": {
+                "mime": ["audio/mpeg"]
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

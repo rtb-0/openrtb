@@ -1,0 +1,29 @@
+{
+  "id": "7a452540-c8c9-43ca-9d30-ab9d8bfd17a4",
+  "imp": [
+    {
+      "id": "2d099176-9feb-44e9-85f9-f385b34123a1",
+      "native": {
+        "request": "{\"native\":{\"ver\":\"1.2\"\n,\"context\":1\n,\"contextsubtype\":10\n,\"plcmttype\":4\n,\"plcmtcnt\":4\n,\"assets\":[{\"id\":1,\"required\":0,\"title\":{\"len\":124}},{\"id\":2,\"data\":{\"type\":1,\"len\":50}},{\"id\":3,\"required\":0,\"img\":{\"type\":3,\"wmin\":150,\"hmin\":150}}]\n}}",
+        "ver": "1.2"
+      },
+      "tagid": "1222",
+      "bidfloor": 0.0001,
+      "secure": 1
+    }
+  ],
+  "site": {
+    "id": "1",
+    "domain": "example.com",
+    "keywords": "Hell, Cisco, Mainstream"
+  },
+  "device": {
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15G77 Version/11.4.1 Safari/604.1 AlohaBrowser/2.10.0b17",
+    "ip": "88.208.2.198",
+    "language": "en"
+  },
+  "user": {
+    "id": "37d1951a-7184-4b7f-b227-5571a1ea7467"
+  },
+  "at": 1
+}

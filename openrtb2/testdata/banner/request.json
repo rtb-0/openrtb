@@ -1,0 +1,99 @@
+{
+  "device": {
+    "ua": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+    "language": "EN",
+    "ip": "207.34.112.154",
+    "geo": {
+      "lat": 40.7141667,
+      "lon": -74.0063889,
+      "country": "USA",
+      "region": "NY",
+      "regionfips104": "US36",
+      "metro": "803",
+      "city": "New York",
+      "zip": "10001",
+      "type": 2,
+      "utcoffset": -300
+    }
+  },
+  "imp": [
+    {
+      "banner": {
+        "w": 728,
+        "h": 90,
+        "pos": 1,
+        "topframe": 0
+      },
+      "secure": 1,
+      "ext": {
+        "bcrid": [
+          "5C7A9L",
+          "5G57H9"
+        ]
+      },
+      "pmp": {
+        "deals": [
+          {
+            "bidfloor": 3.50,
+            "at": 2,
+            "id": "33CBCEYE0214"
+          }
+        ]
+      },
+      "id": "1",
+      "tagid": "3447033_246891"
+    }
+  ],
+  "bcat": [
+    "IAB7-41",
+    "IAB3-7",
+    "IAB11-4",
+    "IAB8-5",
+    "IAB23",
+    "IAB9-30",
+    "IAB1-7",
+    "IAB14",
+    "IAB12",
+    "IAB14-1",
+    "IAB25-2",
+    "IAB24"
+  ],
+  "site": {
+    "domain": "genericnews.ca",
+    "cat": [
+      "IAB12"
+    ],
+    "id": "3447033",
+    "publisher": {
+      "name": "News",
+      "id": "54321"
+    }
+  },
+  "user": {
+    "buyeruid": "79EB93BF-5BD9-8C24-385D-C3D3BECF5994",
+    "id": "vE4OjdHt54QAAEhFcacAAACq"
+  },
+  "id": "112d66c0-d576-4c57-caf7-bbf94123326d",
+  "ext": {
+    "sdepth": 6,
+    "edepth": 6,
+    "tz": 360
+  },
+  "source": {
+    "pchain": "50b1c356f2c5c8fc:2167",
+    "ext": {
+      "schain": {
+        "complete": 1,
+        "ver": "1.0",
+        "nodes": [
+          {
+            "asi": "indexexchange.com",
+            "sid": "54321",
+            "hp": 1,
+            "rid": "A92AF4241C4A8FF6"
+          }
+        ]
+      }
+    }
+  }
+}

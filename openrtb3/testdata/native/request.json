@@ -1,0 +1,28 @@
+{
+  "openrtb": {
+    "ver": "3.0",
+    "domainspec": "adcom",
+    "domainver": "1.0",
+    "request": {
+      "id": "req-native",
+      "at": 1,
+      "item": [
+        {
+          "id": "1",
+          "spec": {
+            "placement": {
+              "display": {
+                "nativefmt": {
+                  "asset": [
+                    {"id": 1, "req": 1, "title": {"len": 50}},
+                    {"id": 2, "img": {"type": 3, "wmin": 300, "hmin": 200}}
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "openrtb": {
+    "ver": "3.0",
+    "domainspec": "adcom",
+    "domainver": "1.0",
+    "request": {
+      "id": "req-video",
+      "at": 2,
+      "item": [
+        {
+          "id": "1",
+          "spec": {
+            "placement": {
+              "video": {
+                "mime": ["video/mp4"],
+                "delay": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

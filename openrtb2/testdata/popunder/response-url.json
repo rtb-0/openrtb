@@ -1,0 +1,15 @@
+{
+  "id": "d4b5c697-41f3-4c1c-a3d5-5fd01b5ef2aa",
+  "seatbid": [
+    {
+      "bid": [
+        {
+          "id": "12ab3d",
+          "impid": "974090632",
+          "price": 0.55,
+          "adm": "https://example.com/pop"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "openrtb": {
+    "ver": "3.0",
+    "domainspec": "adcom",
+    "domainver": "1.0",
+    "response": {
+      "id": "req-audio",
+      "seatbid": [
+        {
+          "bid": [
+            {
+              "id": "bid-audio",
+              "item": "1",
+              "price": 0.4,
+              "media": {
+                "ad": {
+                  "id": "cr-audio",
+                  "audio": {
+                    "adm": "<DAAST version=\"1.0\"></DAAST>",
+                    "mime": ["audio/mpeg"]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

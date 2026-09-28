@@ -1,0 +1,38 @@
+{
+  "openrtb": {
+    "ver": "3.0",
+    "domainspec": "adcom",
+    "domainver": "1.0",
+    "request": {
+      "id": "req-banner",
+      "tmax": 120,
+      "at": 2,
+      "cur": ["USD"],
+      "source": {"tid": "txn-banner"},
+      "item": [
+        {
+          "id": "1",
+          "flr": 0.5,
+          "flrcur": "USD",
+          "spec": {
+            "placement": {
+              "tagid": "tag-728x90",
+              "secure": 1,
+              "display": {
+                "w": 728,
+                "h": 90,
+                "mime": ["text/html", "image/jpeg"]
+              }
+            }
+          }
+        }
+      ],
+      "context": {
+        "site": {
+          "domain": "example.com",
+          "page": "https://example.com/"
+        }
+      }
+    }
+  }
+}

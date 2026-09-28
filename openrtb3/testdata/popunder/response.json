@@ -1,0 +1,29 @@
+{
+  "openrtb": {
+    "ver": "3.0",
+    "domainspec": "adcom",
+    "domainver": "1.0",
+    "response": {
+      "id": "req-popunder",
+      "seatbid": [
+        {
+          "bid": [
+            {
+              "id": "bid-pop",
+              "item": "1",
+              "price": 0.55,
+              "media": {
+                "ad": {
+                  "id": "cr-pop",
+                  "display": {
+                    "adm": "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?><ad><popunderAd><url><![CDATA[http://google.com]]></url></popunderAd></ad>"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "7a452540-c8c9-43ca-9d30-ab9d8bfd17a4",
+  "seatbid": [
+    {
+      "bid": [
+        {
+          "id": "bid-1",
+          "impid": "2d099176-9feb-44e9-85f9-f385b34123a1",
+          "price": 0.2,
+          "adm": "{\"native\":{\"ver\":\"1.2\",\"assets\":[{\"id\":1,\"title\":{\"text\":\"Cloud\"}}],\"link\":{\"url\":\"https://example.com/landing\"}}}"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "openrtb": {
+    "ver": "3.0",
+    "domainspec": "adcom",
+    "domainver": "1.0",
+    "response": {
+      "id": "req-native",
+      "seatbid": [
+        {
+          "bid": [
+            {
+              "id": "bid-native",
+              "item": "1",
+              "price": 0.2,
+              "media": {
+                "ad": {
+                  "id": "cr-native",
+                  "display": {
+                    "native": {
+                      "ver": "1.2",
+                      "assets": [
+                        {"id": 1, "title": {"text": "Cloud"}}
+                      ],
+                      "link": {"url": "https://example.com/landing"}
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

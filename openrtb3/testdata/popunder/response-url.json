@@ -1,0 +1,27 @@
+{
+  "openrtb": {
+    "ver": "3.0",
+    "domainspec": "adcom",
+    "domainver": "1.0",
+    "response": {
+      "id": "req-popunder",
+      "seatbid": [
+        {
+          "bid": [
+            {
+              "id": "bid-pop-url",
+              "item": "1",
+              "price": 0.55,
+              "media": {
+                "ad": {
+                  "id": "cr-pop-url",
+                  "display": {"adm": "https://example.com/pop"}
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

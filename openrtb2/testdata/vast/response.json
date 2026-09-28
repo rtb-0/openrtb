@@ -1,0 +1,21 @@
+{
+  "cur": "USD",
+  "id": "112d66c0-d576-4c57-caf7-bbf94123326d",
+  "seatbid": [
+    {
+      "seat": "1",
+      "bid": [
+        {
+          "adomain": [
+            "website.org"
+          ],
+          "price": 450,
+          "dealid": "20202003",
+          "id": "5496275328589086182",
+          "adm": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><VAST version=\"2.0\"><Ad id=\"602833\"><Wrapper><AdSystem></AdSystem><VASTAdTagURI>http://ad.server.com/path?price=${AUCTION_PRICE}</VASTAdTagURI><Error>http://ad.server.com/wrapper/error</Error><Impression>http://ad.server.com/wrapper/impression</Impression></Wrapper></Ad></VAST>",
+          "impid": "1"
+        }
+      ]
+    }
+  ]
+}
